@@ -37,7 +37,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 - One Piece fan, if you could not already tell that
 - Love creating apps to help me on my daily basis
-- Studying Japanase
+- 日本語を勉強します！
 
 Find me on ...
 
