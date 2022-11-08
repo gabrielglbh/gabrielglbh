@@ -9,10 +9,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 ## 🕒 Now
 
 - Flutter Mobile Developer at [8Belts](https://w.8belts.com/).
-- Android Mobile Developer Advisor at SightIn Health.
 - Maintaining *[OP Crew Planner](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US)* and *[KanPractice](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)* apps.
-- Advisor and PoC creator for the startup *Apolo*.
-- Freelance App Developer: ✉️ [email](mailto:devgglop@gmail.com) me without hesitation.
 
 ## 🛠️ Tech
 
@@ -38,7 +35,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 - One Piece fan, if you could not already tell that
 - Love creating apps to help me on my daily basis
-- 日本語を勉強します！
+- 日本語を勉強しています！
 
 Find me on ...
 
