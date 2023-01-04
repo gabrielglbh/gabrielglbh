@@ -23,7 +23,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 - Created and maintaining *__OP Crew Planner__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US)
 - Created and maintaining *__KanPractice__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)
-- Creator of *__You Say IT!__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.you_say_it&hl=es&gl=US)
+- Creator of *__You Say IT!__*.
 - Creator of *__KELO__* along with [Raúl Olmedo](https://github.com/olmedocr). - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.gabr.gabc.kelo&hl=es&gl=US) and [App Store!](https://apps.apple.com/au/app/kelo/id1559757993)
 - Creator of *__Learn Nihongo__*. - Try it on [here.](https://learn-nihongo.web.app)
 
