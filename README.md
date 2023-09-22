@@ -14,9 +14,9 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 ## 🛠️ Tech
 
-- Flutter development with various apps released to production on App Store and Google Play *[+3 years of experience]*. 
+- Flutter development with various apps released to production on App Store and Google Play *[+4 years of experience]*. 
     - Notable mention to *__Flavorlens__*, developed in an internship in the [National Institute of Informatics of Tokyo](https://www.nii.ac.jp/en/), available in [Google Play](https://play.google.com/store/apps/details?id=com.nii.dev.flavorlens&gl=ES) and [App Store](https://apps.apple.com/es/app/flavorlens-2/id1554390787).
-- Android development with only one (of many) app released to production. *[+2 years of experience]*.
+- Android development with only one (of many) app released to production. *[+3 years of experience]*.
 - Ionic, Angular and Cordova medium knowledge level.
 - Touched Python for machine and deep learning using convolutional networks.
 
