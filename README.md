@@ -8,9 +8,9 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 ## 🕒 Now
 
-- Flutter Mobile Developer at [8Belts](https://w.8belts.com/).
-- Android enjoyer.
-- Maintaining *[OP Crew Planner](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US)*, *[KanPractice](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)* and *[Qook](https://play.google.com/store/apps/details?id=com.gabr.gabc.qook&hl=es&gl=US)* apps.
+- Senior Android Developer at [MasMovil](https://www.masmovil.es/).
+- Mid Flutter enjoyer.
+- Maintaining *[KanPractice](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)* and *[Qook](https://play.google.com/store/apps/details?id=com.gabr.gabc.qook&hl=es&gl=US)* apps.
 
 ## 💼 Useful projects that maybe helped me get a job
 
@@ -19,16 +19,16 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 ## 👷 Personal Projects
 
-- Created and maintaining the [open-sourced](https://github.com/gabrielglbh/OP-Crew-Planner) *__OP Crew Planner__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US)
 - Created and maintaining the [open-sourced](https://github.com/gabrielglbh/Kan-Practice) *__KanPractice__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)
 - Created and maintaining the [open-sourced](https://github.com/gabrielglbh/qook) *__Qook__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.gabc.qook&hl=es&gl=US)
+- Creator of the [open-sourced](https://github.com/gabrielglbh/OP-Crew-Planner) *__OP Crew Planner__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US)
 - Creator of *__KELO__* along with [Raúl Olmedo](https://github.com/olmedocr). - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.gabr.gabc.kelo&hl=es&gl=US) and [App Store!](https://apps.apple.com/au/app/kelo/id1559757993)
 - Creator of *__Learn Nihongo__*. - Try it on [here.](https://learn-nihongo.web.app)
 
 ## 🛠️ Tech Stack
 
 - Flutter development with various apps released to production on App Store and Google Play *[+5 years of experience]*. 
-- Android development with only one (of many) app released to production. *[+3 years of experience]*.
+- Android development with only one (of many) app released to production. *[+5 years of experience]*.
 
 ## 🖇️ Contributions
 
