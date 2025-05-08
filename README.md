@@ -10,7 +10,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 - Senior Android Developer at [MasMovil](https://www.masmovil.es/).
 - Senior Flutter enjoyer.
-- Maintaining *[KanPractice](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)* and *[Qook](https://play.google.com/store/apps/details?id=com.gabr.gabc.qook&hl=es&gl=US)* apps.
+- Maintaining *[KanPractice](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)* (also available at [web](https://mykanpractice.web.app/)) and *[Ginance](https://myginance.web.app/)* apps.
 
 ## 💼 Useful projects that maybe helped me get a job
 
@@ -20,7 +20,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 ## 👷 Personal Projects
 
 - Created and maintaining [Ginance](https://myginance.web.app/)
-- Created and maintaining the [open-sourced](https://github.com/gabrielglbh/Kan-Practice) *__KanPractice__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US)
+- Created and maintaining the [open-sourced](https://github.com/gabrielglbh/Kan-Practice) *__KanPractice__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US) and [web](https://mykanpractice.web.app/)
 - Created and maintaining the [open-sourced](https://github.com/gabrielglbh/qook) *__Qook__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.gabc.qook&hl=es&gl=US)
 - Creator of the [open-sourced](https://github.com/gabrielglbh/OP-Crew-Planner) *__OP Crew Planner__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US)
 - Creator of *__KELO__* along with [Raúl Olmedo](https://github.com/olmedocr). - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.gabr.gabc.kelo&hl=es&gl=US) and [App Store!](https://apps.apple.com/au/app/kelo/id1559757993)
@@ -28,7 +28,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 ## 🛠️ Tech Stack
 
-- Flutter development with various apps released to production on App Store and Google Play *[+5 years of experience]*. 
+- Flutter development with various apps released to production on Google Play *[+5 years of experience]*. 
 - Android development with only one (of many) app released to production. *[+5 years of experience]*.
 
 ## 🖇️ Contributions
