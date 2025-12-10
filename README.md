@@ -20,12 +20,12 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 ## 👷 Personal Projects
 
-- Created and maintaining [Ginance](https://myginance.web.app/)
-- Created and maintaining the [open-sourced](https://github.com/gabrielglbh/Kan-Practice) *__KanPractice__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US) and [web](https://mykanpractice.web.app/)
-- Created and maintaining the [open-sourced](https://github.com/gabrielglbh/qook) *__Qook__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.gabc.qook&hl=es&gl=US)
-- Creator of the [open-sourced](https://github.com/gabrielglbh/OP-Crew-Planner) *__OP Crew Planner__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US)
-- Creator of *__KELO__* along with [Raúl Olmedo](https://github.com/olmedocr). - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.gabr.gabc.kelo&hl=es&gl=US) and [App Store!](https://apps.apple.com/au/app/kelo/id1559757993)
-- Creator of *__Learn Nihongo__*. - Try it on [here.](https://learn-nihongo.web.app)
+- Created and maintaining [Ginance](https://myginance.web.app/). Built with **Flutter**.
+- Created and maintaining the [open-sourced](https://github.com/gabrielglbh/Kan-Practice) *__KanPractice__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.kanpractice&hl=es&gl=US) and [web](https://mykanpractice.web.app/). Built with **Flutter**.
+- Created and maintaining the [open-sourced](https://github.com/gabrielglbh/qook) *__Qook__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.gabc.qook&hl=es&gl=US).  Built with **Android**.
+- Creator of the [open-sourced](https://github.com/gabrielglbh/OP-Crew-Planner) *__OP Crew Planner__*. - [Get it on Google Play!](https://play.google.com/store/apps/details?id=com.gabr.garc.optcteams&hl=es&gl=US). Built with **Flutter**.
+- Creator of *__KELO__* along with [Raúl Olmedo](https://github.com/olmedocr). - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.gabr.gabc.kelo&hl=es&gl=US) and [App Store!](https://apps.apple.com/au/app/kelo/id1559757993). Built with **Android**.
+- Creator of *__Learn Nihongo__*. - Try it on [here.](https://learn-nihongo.web.app). Built with **Ionic**.
 
 ## 🛠️ Tech Stack
 
