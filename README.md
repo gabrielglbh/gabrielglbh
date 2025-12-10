@@ -16,7 +16,7 @@ I'm Gabriel, a Front-End Dev with passion ❤️.
 
 - *[Mars Rover Mission](https://github.com/gabrielglbh/Mars-Rover-Mission)*: simulation of the Mars Rover mission on a MxN grid with random obstacles. Built using **Flutter**, Bloc and Clean Architecture and advanced unit testing.
 - *[ImgurUploader](https://github.com/gabrielglbh/ImgurUploader)*: image manager to retrieve and update images from imgur. Built using **Android Jetpack Compose**, Hilt, Coroutines, Clean Architecture (DDD) and advanced unit and integration testing.
-- *[Route Mapper](https://github.com/gabrielglbh/Route-Mapper)*: simulation of a route calculation process for taxis with Google Maps Integration. Built with **Android Jetpack Compose** using Hilt/Dagger, Coroutines, DDD, testing... More extensive insights in the README doc.
+- *[Route Mapper](https://github.com/gabrielglbh/Route-Mapper)*: route and price calculation app for car travel with Google Maps Integration. Built with **Android Jetpack Compose** using Hilt/Dagger, Coroutines, DDD, testing... More extensive insights in the README doc.
 
 ## 👷 Personal Projects
 
